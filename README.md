@@ -13,7 +13,7 @@ Rebase local changes onto upstream changes를 체크하고 Pull을 실행한다
 let x = 5
 ```
 
-2. == 동등 연산자
+2. == 동등 연산자 
 - ==는 두 값이 동일한지 비교하는 데 사용됩니다. 즉, 값이 같은지를 확인합니다.
 - 예를 들어:
 ```swift
