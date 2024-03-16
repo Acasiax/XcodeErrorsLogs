@@ -5,7 +5,7 @@
 branch 목록에서 원하는 branch 선택한다.
 Rebase local changes onto upstream changes를 체크하고 Pull을 실행한다
 
-# Swift에서 =, ==, 그리고 ===
+# Swift에서 =, ==, 그리고 ===  
 1. = 할당연산자
    - =는 변수에 값을 할당하는 데 사용됩니다.
    - 예를 들어
